@@ -1,0 +1,7 @@
+git 上传代码流程
+1， git init
+2， git add .
+3， git commit -m “first commit”
+4， git remote add origin https://github.com/wjl1686/wjl-myabtis.git
+5， git push -u origin master
+用户 wjl1686  密码是token 登录github -> Setting -> Developer setting -> Personal access tokens -> Generate new token
